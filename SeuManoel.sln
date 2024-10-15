@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeuManoel.Application", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeuManoel.Domain", "SeuManoel.Domain\SeuManoel.Domain.csproj", "{588D019A-9BD5-476A-9445-2438DB614AED}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{13334D3F-334D-488D-901C-8605D068526E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{588D019A-9BD5-476A-9445-2438DB614AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{588D019A-9BD5-476A-9445-2438DB614AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{588D019A-9BD5-476A-9445-2438DB614AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13334D3F-334D-488D-901C-8605D068526E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13334D3F-334D-488D-901C-8605D068526E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13334D3F-334D-488D-901C-8605D068526E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13334D3F-334D-488D-901C-8605D068526E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

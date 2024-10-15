@@ -1,0 +1,6 @@
+services:
+  seumanoel.web.api:
+    image: ${DOCKER_REGISTRY-}seumanoelwebapi
+    build:
+      context: .
+      dockerfile: SeuManoel.Web.API/Dockerfile
