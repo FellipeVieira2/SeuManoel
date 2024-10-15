@@ -15,8 +15,8 @@ Com o **Docker Compose**, podemos orquestrar a execução de múltiplos contêin
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/SeuManoel.Web.API.git
-cd SeuManoel.Web.API
+git clone https://github.com/FellipeVieira2/SeuManoel.git
+cd SeuManoel
 ```
 ### 3. Executando o Docker Compose
 ```bash
